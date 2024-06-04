@@ -13,6 +13,19 @@
 		EB3A4A862B4D80B700BE5A45 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EB3A4A842B4D80B700BE5A45 /* Main.storyboard */; };
 		EB3A4A882B4D80B900BE5A45 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EB3A4A872B4D80B900BE5A45 /* Assets.xcassets */; };
 		EB3A4A8B2B4D80B900BE5A45 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EB3A4A892B4D80B900BE5A45 /* LaunchScreen.storyboard */; };
+		EB3A4B032B4E980500BE5A45 /* poland.png in Resources */ = {isa = PBXBuildFile; fileRef = EB3A4AF72B4E980500BE5A45 /* poland.png */; };
+		EB3A4B042B4E980500BE5A45 /* ukraine.png in Resources */ = {isa = PBXBuildFile; fileRef = EB3A4AF82B4E980500BE5A45 /* ukraine.png */; };
+		EB3A4B052B4E980500BE5A45 /* estonia.png in Resources */ = {isa = PBXBuildFile; fileRef = EB3A4AF92B4E980500BE5A45 /* estonia.png */; };
+		EB3A4B062B4E980500BE5A45 /* us.png in Resources */ = {isa = PBXBuildFile; fileRef = EB3A4AFA2B4E980500BE5A45 /* us.png */; };
+		EB3A4B072B4E980500BE5A45 /* monaco.png in Resources */ = {isa = PBXBuildFile; fileRef = EB3A4AFB2B4E980500BE5A45 /* monaco.png */; };
+		EB3A4B082B4E980500BE5A45 /* nigeria.png in Resources */ = {isa = PBXBuildFile; fileRef = EB3A4AFC2B4E980500BE5A45 /* nigeria.png */; };
+		EB3A4B092B4E980500BE5A45 /* germany.png in Resources */ = {isa = PBXBuildFile; fileRef = EB3A4AFD2B4E980500BE5A45 /* germany.png */; };
+		EB3A4B0A2B4E980500BE5A45 /* spain.png in Resources */ = {isa = PBXBuildFile; fileRef = EB3A4AFE2B4E980500BE5A45 /* spain.png */; };
+		EB3A4B0B2B4E980500BE5A45 /* france.png in Resources */ = {isa = PBXBuildFile; fileRef = EB3A4AFF2B4E980500BE5A45 /* france.png */; };
+		EB3A4B0C2B4E980500BE5A45 /* italy.png in Resources */ = {isa = PBXBuildFile; fileRef = EB3A4B002B4E980500BE5A45 /* italy.png */; };
+		EB3A4B0D2B4E980500BE5A45 /* uk.png in Resources */ = {isa = PBXBuildFile; fileRef = EB3A4B012B4E980500BE5A45 /* uk.png */; };
+		EB3A4B0E2B4E980500BE5A45 /* ireland.png in Resources */ = {isa = PBXBuildFile; fileRef = EB3A4B022B4E980500BE5A45 /* ireland.png */; };
+		EB3A4B102B4E9FBF00BE5A45 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB3A4B0F2B4E9FBF00BE5A45 /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +37,19 @@
 		EB3A4A872B4D80B900BE5A45 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EB3A4A8A2B4D80B900BE5A45 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EB3A4A8C2B4D80B900BE5A45 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EB3A4AF72B4E980500BE5A45 /* poland.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = poland.png; sourceTree = "<group>"; };
+		EB3A4AF82B4E980500BE5A45 /* ukraine.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ukraine.png; sourceTree = "<group>"; };
+		EB3A4AF92B4E980500BE5A45 /* estonia.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = estonia.png; sourceTree = "<group>"; };
+		EB3A4AFA2B4E980500BE5A45 /* us.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = us.png; sourceTree = "<group>"; };
+		EB3A4AFB2B4E980500BE5A45 /* monaco.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = monaco.png; sourceTree = "<group>"; };
+		EB3A4AFC2B4E980500BE5A45 /* nigeria.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = nigeria.png; sourceTree = "<group>"; };
+		EB3A4AFD2B4E980500BE5A45 /* germany.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = germany.png; sourceTree = "<group>"; };
+		EB3A4AFE2B4E980500BE5A45 /* spain.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = spain.png; sourceTree = "<group>"; };
+		EB3A4AFF2B4E980500BE5A45 /* france.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = france.png; sourceTree = "<group>"; };
+		EB3A4B002B4E980500BE5A45 /* italy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = italy.png; sourceTree = "<group>"; };
+		EB3A4B012B4E980500BE5A45 /* uk.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = uk.png; sourceTree = "<group>"; };
+		EB3A4B022B4E980500BE5A45 /* ireland.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ireland.png; sourceTree = "<group>"; };
+		EB3A4B0F2B4E9FBF00BE5A45 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,11 +86,32 @@
 				EB3A4A802B4D80B700BE5A45 /* SceneDelegate.swift */,
 				EB3A4A822B4D80B700BE5A45 /* ViewController.swift */,
 				EB3A4A842B4D80B700BE5A45 /* Main.storyboard */,
+				EB3A4B0F2B4E9FBF00BE5A45 /* DetailViewController.swift */,
 				EB3A4A872B4D80B900BE5A45 /* Assets.xcassets */,
 				EB3A4A892B4D80B900BE5A45 /* LaunchScreen.storyboard */,
 				EB3A4A8C2B4D80B900BE5A45 /* Info.plist */,
+				EB3A4AF62B4E980500BE5A45 /* challenge1 files */,
 			);
 			path = Challenge1;
+			sourceTree = "<group>";
+		};
+		EB3A4AF62B4E980500BE5A45 /* challenge1 files */ = {
+			isa = PBXGroup;
+			children = (
+				EB3A4AF72B4E980500BE5A45 /* poland.png */,
+				EB3A4AF82B4E980500BE5A45 /* ukraine.png */,
+				EB3A4AF92B4E980500BE5A45 /* estonia.png */,
+				EB3A4AFA2B4E980500BE5A45 /* us.png */,
+				EB3A4AFB2B4E980500BE5A45 /* monaco.png */,
+				EB3A4AFC2B4E980500BE5A45 /* nigeria.png */,
+				EB3A4AFD2B4E980500BE5A45 /* germany.png */,
+				EB3A4AFE2B4E980500BE5A45 /* spain.png */,
+				EB3A4AFF2B4E980500BE5A45 /* france.png */,
+				EB3A4B002B4E980500BE5A45 /* italy.png */,
+				EB3A4B012B4E980500BE5A45 /* uk.png */,
+				EB3A4B022B4E980500BE5A45 /* ireland.png */,
+			);
+			path = "challenge1 files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,9 +172,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EB3A4B0C2B4E980500BE5A45 /* italy.png in Resources */,
+				EB3A4B0D2B4E980500BE5A45 /* uk.png in Resources */,
+				EB3A4B0B2B4E980500BE5A45 /* france.png in Resources */,
 				EB3A4A8B2B4D80B900BE5A45 /* LaunchScreen.storyboard in Resources */,
 				EB3A4A882B4D80B900BE5A45 /* Assets.xcassets in Resources */,
+				EB3A4B072B4E980500BE5A45 /* monaco.png in Resources */,
+				EB3A4B0E2B4E980500BE5A45 /* ireland.png in Resources */,
 				EB3A4A862B4D80B700BE5A45 /* Main.storyboard in Resources */,
+				EB3A4B032B4E980500BE5A45 /* poland.png in Resources */,
+				EB3A4B082B4E980500BE5A45 /* nigeria.png in Resources */,
+				EB3A4B042B4E980500BE5A45 /* ukraine.png in Resources */,
+				EB3A4B0A2B4E980500BE5A45 /* spain.png in Resources */,
+				EB3A4B062B4E980500BE5A45 /* us.png in Resources */,
+				EB3A4B052B4E980500BE5A45 /* estonia.png in Resources */,
+				EB3A4B092B4E980500BE5A45 /* germany.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -141,6 +200,7 @@
 				EB3A4A832B4D80B700BE5A45 /* ViewController.swift in Sources */,
 				EB3A4A7F2B4D80B700BE5A45 /* AppDelegate.swift in Sources */,
 				EB3A4A812B4D80B700BE5A45 /* SceneDelegate.swift in Sources */,
+				EB3A4B102B4E9FBF00BE5A45 /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -297,8 +357,8 @@
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -306,6 +366,10 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.example.Challenge1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -324,8 +388,8 @@
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -333,6 +397,10 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.example.Challenge1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
