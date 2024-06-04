@@ -29,7 +29,6 @@ class ViewController: UITableViewController {
             }
         }
         print(flags)
-    
     }
     
     override func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
@@ -53,9 +52,5 @@ class ViewController: UITableViewController {
             navigationController?.pushViewController(vc, animated: true)
         }
     }
-    
-    
-    
-
 }
 
